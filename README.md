@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game Repository
+# Rock, Paper, Scissors Game 
 
 Welcome to my Rock, Paper, Scissors game! This simple and engaging game is designed for entertainment and to test your luck and strategy against the computer.
 
